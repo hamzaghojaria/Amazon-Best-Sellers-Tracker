@@ -1,0 +1,242 @@
+[
+  {
+    "rank": 2,
+    "title": "Mojang",
+    "link": "https://www.amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_g_mobile-apps_d_sccl_1/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81gsSy5r13L._AC_UL300_SR300,200_.png",
+    "price": "$6.99",
+    "rating": "4.4"
+  },
+  {
+    "rank": 5,
+    "title": "RobTop Games",
+    "link": "https://www.amazon.com/RobTop-Games-Geometry-Dash/dp/B00EDTSKLU/ref=zg_bs_g_mobile-apps_d_sccl_2/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61mVIP6Oo1L._AC_UL300_SR300,200_.png",
+    "price": "$2.99",
+    "rating": "4.3"
+  },
+  {
+    "rank": 8,
+    "title": "The FOF Games-3d puzzle Free games 2020",
+    "link": "https://www.amazon.com/Games-3d-puzzle-Free-games-2020/dp/B0CN57T9H4/ref=zg_bs_g_mobile-apps_d_sccl_3/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/513oppAEUFL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.3"
+  },
+  {
+    "rank": 11,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Dummy-Break-Gold/dp/B0F9FTX3ZV/ref=zg_bs_g_mobile-apps_d_sccl_4/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81qFfIDF-FL._AC_UL300_SR300,200_.png",
+    "price": "$8.99",
+    "rating": "N/A"
+  },
+  {
+    "rank": 14,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Wreck-Meeh-Gold/dp/B0F9FVC5QK/ref=zg_bs_g_mobile-apps_d_sccl_5/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81IzVNJOwkL._AC_UL300_SR300,200_.png",
+    "price": "$13.99",
+    "rating": "1.0"
+  },
+  {
+    "rank": 17,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Runaway-Maze-Gold/dp/B0F9FR6VXD/ref=zg_bs_g_mobile-apps_d_sccl_6/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81gZjOnnpZL._AC_UL300_SR300,200_.png",
+    "price": "$8.99",
+    "rating": "2.5"
+  },
+  {
+    "rank": 20,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Challenge-Race-Gold/dp/B0F9FVFVCM/ref=zg_bs_g_mobile-apps_d_sccl_7/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81nk+f1+5mL._AC_UL300_SR300,200_.png",
+    "price": "$8.99",
+    "rating": "3.4"
+  },
+  {
+    "rank": 23,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Snack-Run-Gold/dp/B0F9FSNNWG/ref=zg_bs_g_mobile-apps_d_sccl_8/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71eQPka0xIL._AC_UL300_SR300,200_.png",
+    "price": "$12.99",
+    "rating": "1.0"
+  },
+  {
+    "rank": 26,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Mental-Might-Gold/dp/B0F9FTKHHF/ref=zg_bs_g_mobile-apps_d_sccl_9/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/810NFwq21uL._AC_UL300_SR300,200_.png",
+    "price": "$13.99",
+    "rating": "N/A"
+  },
+  {
+    "rank": 29,
+    "title": "GamesPlays",
+    "link": "https://www.amazon.com/GamesPlays-Bucket-Smasher/dp/B0F6D7PXNH/ref=zg_bs_g_mobile-apps_d_sccl_10/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51fSMF0JVqL._AC_UL300_SR300,200_.png",
+    "price": "$9.99",
+    "rating": "2.9"
+  },
+  {
+    "rank": 32,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Challenge-Runway-Gold/dp/B0F9FVM23R/ref=zg_bs_g_mobile-apps_d_sccl_11/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/8156Wg-Zy2L._AC_UL300_SR300,200_.png",
+    "price": "$13.99",
+    "rating": "5.0"
+  },
+  {
+    "rank": 35,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Sketch-Adventure-Gold/dp/B0F9FS837B/ref=zg_bs_g_mobile-apps_d_sccl_12/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71B1aWfp52L._AC_UL300_SR300,200_.png",
+    "price": "$13.99",
+    "rating": "3.0"
+  },
+  {
+    "rank": 38,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Titans-Legion-Gold/dp/B0F9FT3FQF/ref=zg_bs_g_mobile-apps_d_sccl_13/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81zt781UPgL._AC_UL300_SR300,200_.png",
+    "price": "$8.99",
+    "rating": "2.5"
+  },
+  {
+    "rank": 41,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Rhythm-Motion-Gold/dp/B0F9FWK1S2/ref=zg_bs_g_mobile-apps_d_sccl_14/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81V39j6ZN+L._AC_UL300_SR300,200_.png",
+    "price": "$8.99",
+    "rating": "1.0"
+  },
+  {
+    "rank": 44,
+    "title": "Alex Fun Games Studio",
+    "link": "https://www.amazon.com/Urban-Bike-Gangster-Simulator-Racing/dp/B0F29XWZKN/ref=zg_bs_g_mobile-apps_d_sccl_15/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91grjmSkNHL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.4"
+  },
+  {
+    "rank": 47,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Monster-Uplift-Gold/dp/B0F9FQG45S/ref=zg_bs_g_mobile-apps_d_sccl_16/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81A-DM2bs7L._AC_UL300_SR300,200_.png",
+    "price": "$12.99",
+    "rating": "5.0"
+  },
+  {
+    "rank": 50,
+    "title": "Super Gamer Studio",
+    "link": "https://www.amazon.com/Virtual-Simulator-Naughty-Prank-Granny/dp/B0F466F1HH/ref=zg_bs_g_mobile-apps_d_sccl_17/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81TkObzuIRL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.0"
+  },
+  {
+    "rank": 53,
+    "title": "HyperSim Interactive",
+    "link": "https://www.amazon.com/Naughty-Baby-Fun-Daycare-Simulator/dp/B0F1CP2HSN/ref=zg_bs_g_mobile-apps_d_sccl_18/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71oOXSZkZJL._AC_UL300_SR300,200_.png",
+    "price": "$14.99",
+    "rating": "4.0"
+  },
+  {
+    "rank": 56,
+    "title": "Mamboo Entertainment ME FZ LLC",
+    "link": "https://www.amazon.com/Hair-Tattoo-Barber-Shop-Gam/dp/B0DMT8ZX8B/ref=zg_bs_g_mobile-apps_d_sccl_19/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/810XOpiUNiL._AC_UL300_SR300,200_.png",
+    "price": "$9.99",
+    "rating": "3.5"
+  },
+  {
+    "rank": 59,
+    "title": "AppSynergy Creations",
+    "link": "https://www.amazon.com/Makeup-Simulator-artistry-relaxation-virtual/dp/B0CHPGNM48/ref=zg_bs_g_mobile-apps_d_sccl_20/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bS+2ykzfL._AC_UL300_SR300,200_.png",
+    "price": "$9.99",
+    "rating": "3.6"
+  },
+  {
+    "rank": 62,
+    "title": "Mojo Games",
+    "link": "https://www.amazon.com/Voxel-Run-Pixel-racing-fighting/dp/B0CZRZ2HSY/ref=zg_bs_g_mobile-apps_d_sccl_21/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81eJhI1XypL._AC_UL300_SR300,200_.png",
+    "price": "$14.99",
+    "rating": "3.7"
+  },
+  {
+    "rank": 65,
+    "title": "Serra Ayan",
+    "link": "https://www.amazon.com/Serra-Ayan-Escape-The-Prison/dp/B0DJZFGNGJ/ref=zg_bs_g_mobile-apps_d_sccl_22/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81cmCwHQRnL._AC_UL300_SR300,200_.png",
+    "price": "$9.99",
+    "rating": "2.5"
+  },
+  {
+    "rank": 68,
+    "title": "Capricon Team",
+    "link": "https://www.amazon.com/Capricon-Team-Tanks-Merge-Platinum/dp/B0DQQBDWQK/ref=zg_bs_g_mobile-apps_d_sccl_23/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71w+3TnqYfL._AC_UL300_SR300,200_.png",
+    "price": "$10.99",
+    "rating": "3.3"
+  },
+  {
+    "rank": 71,
+    "title": "The FOF Games-3d puzzle Free games 2020",
+    "link": "https://www.amazon.com/Tall-man-run-Fun-Race/dp/B0B14F2GS5/ref=zg_bs_g_mobile-apps_d_sccl_24/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71U9GIETkeL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.0"
+  },
+  {
+    "rank": 74,
+    "title": "Hat-Trick Games",
+    "link": "https://www.amazon.com/Hat-Trick-Games-Gummy-Rush-Gold/dp/B0F9FXRPQH/ref=zg_bs_g_mobile-apps_d_sccl_25/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/816j-m56T8L._AC_UL300_SR300,200_.png",
+    "price": "$13.99",
+    "rating": "N/A"
+  },
+  {
+    "rank": 77,
+    "title": "RC Studios",
+    "link": "https://www.amazon.com/Super-Market-Cashier-Retail-Simulator/dp/B0D4MNC1ZV/ref=zg_bs_g_mobile-apps_d_sccl_26/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81FPv6YV2PL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.3"
+  },
+  {
+    "rank": 80,
+    "title": "Games Helpers",
+    "link": "https://www.amazon.com/Real-city-Construction-simulator-Game/dp/B0D2HZX23P/ref=zg_bs_g_mobile-apps_d_sccl_27/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71B4F7lnq6L._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "1.0"
+  },
+  {
+    "rank": 83,
+    "title": "Super Gamer Studio",
+    "link": "https://www.amazon.com/Virtual-Naughty-Baby-Daddy-Simulator/dp/B0F1Z5WWP2/ref=zg_bs_g_mobile-apps_d_sccl_28/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71ViIA2U7cL._AC_UL300_SR300,200_.png",
+    "price": "$11.99",
+    "rating": "3.5"
+  },
+  {
+    "rank": 86,
+    "title": "Prism Pioneers",
+    "link": "https://www.amazon.com/Prism-Pioneers-Rainbow-Friends-Playground/dp/B0C828D9K1/ref=zg_bs_g_mobile-apps_d_sccl_29/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/7125k3w1eyL._AC_UL300_SR300,200_.png",
+    "price": "$4.99",
+    "rating": "3.6"
+  },
+  {
+    "rank": 89,
+    "title": "Curva Studio",
+    "link": "https://www.amazon.com/Cleaner-Race-Epic-Duel-PRO/dp/B0FF3M3Y88/ref=zg_bs_g_mobile-apps_d_sccl_30/133-4660916-8541506?psc=1?tag=101e2e-20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81DQcYDMIeL._AC_UL300_SR300,200_.png",
+    "price": "$17.99",
+    "rating": "N/A"
+  }
+]
