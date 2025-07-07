@@ -191,6 +191,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.mount("/static", StaticFiles(directory="Frontend"), name="static")
+
+@app.get("/", response_class=HTMLResponse)
+async def serve_frontend():
+    with open("index.html", "r", encoding="utf-8") as f:
+        return f.read()
+
 
 @app.get("/api/bestsellers/{category}")
 async def get_best_sellers(category: str, refresh: bool = Query(False)):
