@@ -12,6 +12,8 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 import atexit
 import asyncio
+import httpx
+from bs4 import BeautifulSoup
 
 ASSOCIATE_TAG = "your-amazon-associate-tag"  # Replace with your actual Amazon Associate tag
 CACHE_DIR = "data"
@@ -97,8 +99,7 @@ def save_cached_data(category, data):
     with open(os.path.join(CACHE_DIR, f"{category}.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
-import httpx
-from bs4 import BeautifulSoup
+
 
 async def scrape_best_sellers(category):
     url = CATEGORY_URLS.get(category.lower())
