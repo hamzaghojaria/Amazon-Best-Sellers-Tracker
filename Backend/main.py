@@ -1,5 +1,7 @@
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse,HTMLResponse
 import uvicorn
 import os
 import json
@@ -8,7 +10,6 @@ import multiprocessing
 from contextlib import asynccontextmanager
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
-from fastapi import Request
 import atexit
 import asyncio
 
@@ -195,7 +196,7 @@ app.mount("/static", StaticFiles(directory="Frontend"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
 async def serve_frontend():
-    with open("index.html", "r", encoding="utf-8") as f:
+    with open("Frontend/index.html", "r", encoding="utf-8") as f:
         return f.read()
 
 
