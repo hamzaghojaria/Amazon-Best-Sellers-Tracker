@@ -58,7 +58,7 @@ async function loadProducts(category) {
     resultsDiv.innerHTML = "Loading...";
 
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/bestsellers/${category}`);
+      const res = await fetch(`/api/bestsellers/${category}`);
       const data = await res.json();
       resultsDiv.innerHTML = "";
 
