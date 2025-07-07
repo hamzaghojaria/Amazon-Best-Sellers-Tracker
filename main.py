@@ -4,9 +4,6 @@ import uvicorn
 import os
 import json
 import time
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 import multiprocessing
 from contextlib import asynccontextmanager
 from apscheduler.schedulers.background import BackgroundScheduler
